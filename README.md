@@ -31,9 +31,9 @@ MarkDocSuite is a modular platform for creating, compiling, and viewing structur
 
 ### Application Modules
 
-* [MarkDocEditor Documentation](markdoceditor-overview.md)
-* [MarkDocCompiler Documentation](markdoccompiler-overview.md)
-* [MarkDocViewer Documentation](markdocviewer-overview.md)
+* [MarkDocEditor Documentation](MarkDocEditor/markdoceditor-overview.md)
+* [MarkDocCompiler Documentation](MarkDocCompiler/markdoccompiler-overview.md)
+* [MarkDocViewer Documentation](MarkDocViewer/markdocviewer-overview.md)
 
 ---
 
